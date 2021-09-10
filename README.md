@@ -31,7 +31,7 @@ invés do alfabeto. Assim toda vez que o usuário logar em sua conta, lhe será 
 comparada com a armazenada, assim o único método de entrar em uma conta é de posse da senha, mesmo que alguém tenha acesso aos dados
 armazenados, copiar a senha criptografada e tentar usá-la para acessar o perfil do usuário não funcionaria.
 
-Tela de Log In
+Tela de Log In:
 
 ![LogIn](https://github.com/JoaoVictorFBarros/Algoritmo_de_recomendacao/blob/Imagens/logIn.png)
 
