@@ -17,7 +17,7 @@ esse e uma determindada categoria. Existem 8 categorias, sendo elas:  Ação e a
 simulador, estratégia e multi-jogador. Cada usuário possui também um grau de afinidade, de 0 a 100, com cada uma dessas
 categorias, o qual é atualizado quando este demonstra interesse por uma das recomendações.
 
--> prints banco de dados e da tela
+![Menu](https://github.com/JoaoVictorFBarros/Algoritmo_de_recomendacao/blob/Imagens/Menu.png)
 
    Ao criar um novo usuário é solicitado um username, que não pode já ter sido escolhido, assim como uma senha, a qual será
 criptografada antes de ser armazenada, a partir de um sistema baseado na cifra de Vigenère, porém a partir da tabela ASCII, ao 
