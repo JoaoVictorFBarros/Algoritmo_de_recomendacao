@@ -23,7 +23,7 @@ Menu principal:
 
 Dados:
 
-1[Dados](https://github.com/JoaoVictorFBarros/Algoritmo_de_recomendacao/blob/Imagens/Dados.png)
+![Dados](https://github.com/JoaoVictorFBarros/Algoritmo_de_recomendacao/blob/Imagens/Dados.png)
 
    Ao criar um novo usuário é solicitado um username, que não pode já ter sido escolhido, assim como uma senha, a qual será
 criptografada antes de ser armazenada, a partir de um sistema baseado na cifra de Vigenère, porém a partir da tabela ASCII, ao 
