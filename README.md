@@ -17,7 +17,13 @@ esse e uma determindada categoria. Existem 8 categorias, sendo elas:  Ação e a
 simulador, estratégia e multi-jogador. Cada usuário possui também um grau de afinidade, de 0 a 100, com cada uma dessas
 categorias, o qual é atualizado quando este demonstra interesse por uma das recomendações.
 
--> prints banco de dados e da tela
+Menu principal: 
+
+![Menu](https://github.com/JoaoVictorFBarros/Algoritmo_de_recomendacao/blob/Imagens/Menu.png)
+
+Dados:
+
+![Dados](https://github.com/JoaoVictorFBarros/Algoritmo_de_recomendacao/blob/Imagens/Dados.png)
 
    Ao criar um novo usuário é solicitado um username, que não pode já ter sido escolhido, assim como uma senha, a qual será
 criptografada antes de ser armazenada, a partir de um sistema baseado na cifra de Vigenère, porém a partir da tabela ASCII, ao 
@@ -25,7 +31,9 @@ invés do alfabeto. Assim toda vez que o usuário logar em sua conta, lhe será 
 comparada com a armazenada, assim o único método de entrar em uma conta é de posse da senha, mesmo que alguém tenha acesso aos dados
 armazenados, copiar a senha criptografada e tentar usá-la para acessar o perfil do usuário não funcionaria.
 
--> print usuários e tela de login
+Tela de Log In:
+
+![LogIn](https://github.com/JoaoVictorFBarros/Algoritmo_de_recomendacao/blob/Imagens/logIn.png)
 
    Um método de otmização de tempo e memória do processo de busca e verifição de username e senha é dispor os objetos da 
 classe usuário em uma pilha dinâmica, na qual sempre que um usuário acessa sua conta, ele é colocado no topo da pilha, assim 
