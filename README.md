@@ -25,7 +25,7 @@ invés do alfabeto. Assim toda vez que o usuário logar em sua conta, lhe será 
 comparada com a armazenada, assim o único método de entrar em uma conta é de posse da senha, mesmo que alguém tenha acesso aos dados
 armazenados, copiar a senha criptografada e tentar usá-la para acessar o perfil do usuário não funcionaria.
 
--> print usuários e tela de login
+![LogIn](https://github.com/JoaoVictorFBarros/Algoritmo_de_recomendacao/blob/Imagens/logIn.png)
 
    Um método de otmização de tempo e memória do processo de busca e verifição de username e senha é dispor os objetos da 
 classe usuário em uma pilha dinâmica, na qual sempre que um usuário acessa sua conta, ele é colocado no topo da pilha, assim 
